@@ -3,13 +3,13 @@ An in-depth analysis of employee attrition using data preprocessing, exploratory
 
 # Employee Attrition Analysis
 
-**Project Overview**
+## **Project Overview**
 
 XYZ Company has been facing a persistent 15% attrition rate over the past few years, significantly impacting the company's productivity and overall business performance. To address this issue, XYZ Company has engaged an HR analytics consultancy to analyze employee data, identify key drivers of attrition, and develop strategies to reduce turnover.
 
 As the HR analyst in this project, the primary goal was to build a comprehensive dashboard that enables the organization to make informed, data-driven decisions to mitigate attrition and improve employee retention.
 
-**Project Steps**
+## **Project Steps**
 
 **1. Data Preprocessing:** 
 The data preprocessing phase was crucial to ensure that the dataset was clean, consistent, and ready for analysis. The following steps were performed:
@@ -30,11 +30,11 @@ The data preprocessing phase was crucial to ensure that the dataset was clean, c
 
 **5. Addressing Class Imbalance:** To improve model performance, especially in predicting the minority class (employees who leave), oversampling techniques were applied. This balanced the class distribution and resulted in a model that performs well across both classes, demonstrating strong generalization capabilities.
 
-**Dashboard and Insights**
+## **Dashboard and Insights**
 
 The final output of this project includes an interactive dashboard in Tableau, showcasing key insights derived from the analysis. The dashboard provides a clear view of the factors contributing to employee attrition, enabling the company's leadership to take strategic actions to reduce turnover.
 
-**Tools and Technologies Used**
+## **Tools and Technologies Used**
 
 Python: For data preprocessing, EDA, and model building.
 Jupyter Notebook: For running the analysis and visualizations.
@@ -42,7 +42,10 @@ Tableau: For creating interactive dashboards and visualizing data trends.
 Scikit-learn: For implementing machine learning models and cross-validation.
 Imbalanced-learn: For applying oversampling techniques to address class imbalance.
 
-**Conclusion**
+## Tableau Dashboard
+You can view the interactive Tableau dashboard [here](https://public.tableau.com/views/UMAMproject-2/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+## **Conclusion**
 
 This project provided XYZ Company with actionable insights into the key drivers of employee attrition. By leveraging data analysis and machine learning, the company is now equipped with the tools to make data-driven decisions aimed at reducing attrition and enhancing employee retention.
 
